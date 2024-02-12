@@ -1,0 +1,68 @@
+broadcaster -> hd, gs, fc, sx
+
+%hd -> ms, qb
+%gs -> vr, nn
+%fc -> rd, dt
+%sx -> rl, zg
+
+%ms -> qb, cc
+&qb -> bf, kf, hd, nl, pm, lb
+
+%vr -> jf
+&nn -> nj, gs, vr
+
+&rd -> np, rp, fc
+%dt -> np, rd
+
+&rl -> tk, lq, zg, vm, jb, sx, cl
+%zg -> sr
+
+%cc -> qb, nl
+
+%bf -> kf
+%kf -> zc
+%nl -> bf
+%pm -> ff
+&lb -> lx
+
+%jf -> nn, zd
+
+&nj -> lx
+
+%zf -> rl
+%gb -> cx, nn
+%zr -> rl, cf
+%jb -> bh
+%kp -> rd
+%lq -> sm
+%sd -> rd, vg
+%vm -> jb
+%dh -> sz, qb
+&lx -> rx
+%sz -> qb
+%tk -> zr
+%ph -> dj, rd
+%lf -> mg, nn
+%cx -> nn, lf
+%bh -> rl, tk
+%zm -> rd, kp
+%cf -> zf, rl
+%bz -> gd, nn
+%np -> hq
+%mg -> nn
+&cl -> lx
+%cb -> nk, nn
+&rp -> lx
+%zc -> qb, pm
+%zd -> bz, nn
+%dj -> zm, rd
+%gd -> cb, nn
+%ck -> sd, rd
+%rk -> ck, rd
+%ff -> qb, lm
+%vg -> ph, rd
+%sr -> lq, rl
+%hq -> rd, rk
+%nk -> gb, nn
+%sm -> vm, rl
+%lm -> dh, qb

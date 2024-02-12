@@ -1,0 +1,167 @@
+zf [color="red"]
+zf -> rl
+gb [color="red"]
+gb -> cx
+gb -> nn
+pm [color="red"]
+pm -> ff
+jf [color="red"]
+jf -> nn
+jf -> zd
+zr [color="red"]
+zr -> rl
+zr -> cf
+jb [color="red"]
+jb -> bh
+kp [color="red"]
+kp -> rd
+lq [color="red"]
+lq -> sm
+sd [color="red"]
+sd -> rd
+sd -> vg
+vm [color="red"]
+vm -> jb
+sx [color="red"]
+sx -> rl
+sx -> zg
+dh [color="red"]
+dh -> sz
+dh -> qb
+lx [color="blue"]
+lx -> rx
+sz [color="red"]
+sz -> qb
+dt [color="red"]
+dt -> np
+dt -> rd
+qb [color="blue"]
+qb -> bf
+qb -> kf
+qb -> hd
+qb -> nl
+qb -> pm
+qb -> lb
+tk [color="red"]
+tk -> zr
+nn [color="blue"]
+nn -> nj
+nn -> gs
+nn -> vr
+ph [color="red"]
+ph -> dj
+ph -> rd
+rl [color="blue"]
+rl -> tk
+rl -> lq
+rl -> zg
+rl -> vm
+rl -> jb
+rl -> sx
+rl -> cl
+bf [color="red"]
+bf -> kf
+hd [color="red"]
+hd -> ms
+hd -> qb
+lf [color="red"]
+lf -> mg
+lf -> nn
+cx [color="red"]
+cx -> nn
+cx -> lf
+bh [color="red"]
+bh -> rl
+bh -> tk
+zm [color="red"]
+zm -> rd
+zm -> kp
+vr [color="red"]
+vr -> jf
+cf [color="red"]
+cf -> zf
+cf -> rl
+kf [color="red"]
+kf -> zc
+bz [color="red"]
+bz -> gd
+bz -> nn
+np [color="red"]
+np -> hq
+mg [color="red"]
+mg -> nn
+cl [color="blue"]
+cl -> lx
+cc [color="red"]
+cc -> qb
+cc -> nl
+cb [color="red"]
+cb -> nk
+cb -> nn
+fc [color="red"]
+fc -> rd
+fc -> dt
+rp [color="blue"]
+rp -> lx
+lb [color="blue"]
+lb -> lx
+zg [color="red"]
+zg -> sr
+nj [color="blue"]
+nj -> lx
+zc [color="red"]
+zc -> qb
+zc -> pm
+zd [color="red"]
+zd -> bz
+zd -> nn
+dj [color="red"]
+dj -> zm
+dj -> rd
+rd [color="blue"]
+rd -> np
+rd -> rp
+rd -> fc
+broadcaster [color="green"]
+broadcaster -> hd
+broadcaster -> gs
+broadcaster -> fc
+broadcaster -> sx
+gs [color="red"]
+gs -> vr
+gs -> nn
+gd [color="red"]
+gd -> cb
+gd -> nn
+ck [color="red"]
+ck -> sd
+ck -> rd
+rk [color="red"]
+rk -> ck
+rk -> rd
+ff [color="red"]
+ff -> qb
+ff -> lm
+ms [color="red"]
+ms -> qb
+ms -> cc
+vg [color="red"]
+vg -> ph
+vg -> rd
+sr [color="red"]
+sr -> lq
+sr -> rl
+hq [color="red"]
+hq -> rd
+hq -> rk
+nl [color="red"]
+nl -> bf
+nk [color="red"]
+nk -> gb
+nk -> nn
+sm [color="red"]
+sm -> vm
+sm -> rl
+lm [color="red"]
+lm -> dh
+lm -> qb
